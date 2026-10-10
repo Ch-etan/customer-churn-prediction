@@ -1,0 +1,11 @@
+# Data and generated files
+*.csv
+*.zip
+data/
+outputs/
+customer_churn_predictions.csv
+
+# Python / notebook noise
+__pycache__/
+.ipynb_checkpoints/
+.env
